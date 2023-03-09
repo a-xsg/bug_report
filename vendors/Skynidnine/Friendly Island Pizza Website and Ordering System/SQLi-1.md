@@ -2,8 +2,6 @@
 
 BUG_Author: a-xsg
 
-Website source address:https://www.sourcecodester.com/php/14730/friendly-island-pizza-website-php-mysql.html
-
 Vulnerability File: /friendlyispizzawebsite/deleteorder.php
 
 GET parameter 'id' exists SQL injection vulnerability
